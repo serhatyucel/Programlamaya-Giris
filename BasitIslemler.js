@@ -29,3 +29,6 @@ function basitİşlemler() {
             document.write("Çarpım: " + çarpım + "<br>");
             document.write("Bölüm: " + bölüm + "<br>")
         }
+
+
+//türkçe karakter kullanmışsınız?
